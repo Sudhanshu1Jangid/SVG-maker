@@ -2,7 +2,7 @@
 
 Converts hand written notes into SVG 
 
-## features
+## Features
 Interactive ROI Selection: Select the area of the image to process.
 
 Multi-Format Conversion: Convert images to PBM, SVG, and PNG formats.
