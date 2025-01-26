@@ -22,4 +22,6 @@ def capture_image():
         if cv2.waitKey(1) & 0xFF == ord(' '):
             break
 
-    
+    cap.release()
+    cv2.destroyAllWindows()
+    return frame
